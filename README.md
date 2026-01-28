@@ -6,7 +6,7 @@ All programs are written in Python and executed successfully.
 
 ---
 
-## ✅ Beginner Level Tasks
+## 1.Beginner Level Tasks
 
 The Beginner folder contains Python programs covering basic programming concepts:
 
@@ -28,7 +28,7 @@ The Beginner folder contains Python programs covering basic programming concepts
 
 ---
 
-## ✅ Intermediate Level Tasks
+## 2.Intermediate Level Tasks
 
 The Intermediate folder includes:
 
@@ -41,7 +41,7 @@ These programs demonstrate practical Python usage and logic building.
 
 ---
 
-## ✅ Advanced Level Task
+## 3.Advanced Level Task
 
 The Advanced folder contains:
 
