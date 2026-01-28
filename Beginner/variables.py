@@ -1,10 +1,16 @@
-# 1. pi variable and data type
+# 1(a) Value of pi and datatype
 pi = 22 / 7
-print(type(pi))
+print("Value of pi:", pi)
+print("Datatype of pi:", type(pi))
 
-# 2. Simple Interest
-P = 1000
-R = 5
-T = 3
-SI = (P * R * T) / 100
-print("Simple Interest:", SI)
+# This program demonstrates that 'for' cannot be used as a variable name
+
+#for = 4
+
+# 1(c) Simple Interest
+principal = 5000
+rate = 5
+time = 3
+
+simple_interest = (principal * rate * time) / 100
+print("Simple Interest:", simple_interest)
